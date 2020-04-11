@@ -1,4 +1,5 @@
 # Module14_Bikesharing_Challenge
+[Tableau Analysis](https://public.tableau.com/profile/dustin2495#!/vizhome/Challenge_15865917101600/Module14_Challenge?publish=yes)
 For the investor pitch, let's look at the Module14_Challenge story tab within the Challenge.twb Tableau workbook. 
 The story is compromised of 6 sections: 
  - The first page displays the New York City city bike data.
