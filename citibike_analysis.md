@@ -3,8 +3,8 @@ For the investor pitch, let's look at the Module14_Challenge story tab within th
 The story is compromised of 6 sections: 
  - The first page displays the New York City city bike data.
  -- New York City has a successful bicycle-sharing system, and will use this as a reference model. 
- - The subsequent 2nd, 3rd, and 4th pages will start off with the differences between NYC and Des Moines city data to address potential concerns with this investment.
- - The last three (4th 5th 6th pages) show the similarities between NYC and Des Moines to demonstrate why Des Moines bicycle-sharing program would be a worthwhile investment. 
+ - The 2nd pages will start off with the difference between NYC and Des Moines city data to address potential concerns with this investment.
+ - The remaining pages show some encouraging differences and similarities of NYC and Des Moines data to demonstrate why Des Moines bicycle-sharing program would be a worthwhile investment. 
 After everyone has looked at the first page, let's move onto discussing the NYC & Des Moines comparison pages.
 ## Questions
 The following questions were explored in this exercise.
