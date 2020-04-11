@@ -1,57 +1,29 @@
 # Module14_Bikesharing_Challenge
+For the investor pitch, let's look at the Module14_Challenge story tab within the Challenge.twb Tableau workbook. 
+The story is compromised of 6 sections: 
+ - The first page displays the New York City city bike data.
+ -- New York City has a successful bicycle-sharing system, and will use this as a reference model. 
+ - The subsequent 2nd, 3rd, and 4th pages will start off with the differences between NYC and Des Moines city data to address potential concerns with this investment.
+ - The last three (4th 5th 6th pages) show the similarities between NYC and Des Moines to demonstrate why Des Moines bicycle-sharing program would be a worthwhile investment. 
+After everyone has looked at the first page, let's move onto discussing the NYC & Des Moines comparison pages.
 ## Questions
-1. Population of Des Moines vs New York City?
-- Population density
+The following questions were explored in this exercise.
+1. Population of Des Moines vs New York City (2018)?
+- 216,853 vs 8,398,748
 
 2. Gender diversity?
-- similar
+- NYC data showed that males were majority of the customers.
+- We see the gender breakdown is similar between the two cities (50% vs 52%)
 
-## Execute Research
-- Smaller scale based on density
-Step 2: Execute Independent Research
-The next critical step is conducting independent research. In this case, consult various resources to help you get a better picture of what a bike-sharing business would look like in Des Moines.
+## Research Sources
+The following sources were used for comparison between NYC and Des Moines:
+- Citi Bike (citibikenyc.com)
+- US Census (census.gov)
+- Best Places (bestplaces.net)
 
-The goal is to find key pieces of information that are relevant to the question you selected and will help investors arrive a decision more easily. Here are a few resources you might look at:
+## Observations
+Des Moines population smaller, so the business scale will definitely be smaller than that of NYC Citi Bike's. But the following points make it a safe investment for a successful business:
+ - Its population is growing at a higher % rate. Although there is a large disparity of population, we see that Des Moines population increase from the last decade is > 60% compared to NYC's < 30%. 
+ - Although the population ratio is discouragingly 40 times different between the cities, the population density for Des Moines is 2,516 per square mile vs NYC's 27,013 - that is only a little over 10x difference. The area between the two cities is 4x different (21.4	vs 88.2 squared miles). By strategically placing bike stations in populated areas, we can minimize costs.
+ - The average commute distance is shorter for Des Moines (19 miles) than NYC (41.2 miles). This shorter commute can lead to a larger % of the population to turn to bike services if it becomes available.
 
-Des Moines Census Data (Links to an external site.)
-Des Moines Tourism Website (Links to an external site.)
-New York and Des Moines McDonald's dataset.
-## Step 3. Craft Your Tableau Story
-Create a Tableau story answering the question you selected. Use story points and arrows to describe your findings.
-
-Then publish your Tableau story and dashboards to Tableau Public. Tableau Public is a way to share dashboards or stories that you have created online.
-
-Note
-
-Note that Tableau Public should not be used for dashboards containing potentially private data; for this you should use Tableau Server. Private data is generally data that would have an impact to a business or person if it were released into the public.
-
-Since the data you're using is not considered private data, you can use Tableau Public.
- 
-
-You can publish your analysis to Tableau Public through the Tableau app. Follow these steps.
-
-Go to the Server dropdown menu and select Tableau Public.
-Click "Save to Tableau Public."
-To publish your analysis, log in to your Tableau account.
-For more information, see Tableau's documentation on saving workbooks to Tableau Public (Links to an external site.).
-
-Next, copy the link to use in your written analysis.
-
-## Step 4: Create a Written Analysis
-The goal of your written analysis is to share additional thoughts with your audience, expanding on details and clarifying points that they may not understand. Stories in Tableau can be fairly open-ended, so a written analysis allows you to further share your insights and interpretation of the data in order to help your case.
-
-Length
-There is no official guideline for how long a written analysis should be, but you should write enough to convey your points.
-
-Content
-Your written analysis can include all or some of the following:
-
-A summary of your analysis
-A summary of each page in the Tableau story
-Clarifying any data that is unclear or complex
-Format
-Write your analysis in a markdown file named citibike_analysis.md, using VS Code. Your document should include a title. There are different sizes, or levels, of headings that correspond to the number of "#" signs preceding the title. For example:
-
-# NYC Citi Bike Analysis
-##  Smaller Title
-### Even Smaller Title
