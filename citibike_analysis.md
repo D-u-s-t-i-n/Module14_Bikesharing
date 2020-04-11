@@ -27,4 +27,5 @@ Des Moines population smaller, so the business scale will definitely be smaller 
  - Its population is growing at a higher % rate. Although there is a large disparity of population, we see that Des Moines population increase from the last decade is > 60% compared to NYC's < 30%. 
  - Although the population ratio is discouragingly 40 times different between the cities, the population density for Des Moines is 2,516 per square mile vs NYC's 27,013 - that is only a little over 10x difference. The area between the two cities is 4x different (21.4	vs 88.2 squared miles). By strategically placing bike stations in populated areas, we can minimize costs.
  - The average commute distance is shorter for Des Moines (19 miles) than NYC (41.2 miles). This shorter commute can lead to a larger % of the population to turn to bike services if it becomes available.
-
+ - The weather data from bestplaces.net indicate that NYC has slightly more rainfall than Des Moines. So loss due to weather is less likely to happen.  
+ Thanks for your time.
